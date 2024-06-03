@@ -1,6 +1,6 @@
 # SuperHeroLocator App - Kotlin_XML
 
-Esta aplicación Android es herramienta de búsqueda de superhéroes desarrollada en Kotlin y XML utilizando Retrofit para la comunicación con APIs. Utiliza una arquitectura eficiente y moderna para proporcionar una experiencia de usuario fluida y rápida. Encuentra y conecta con tus superhéroes favoritos de manera fácil y rápida con SuperHeroLocator App.
+Esta aplicación Android es herramienta de búsqueda de superhéroes desarrollada en Kotlin y XML utilizando Retrofit para la comunicación con APIs. Utiliza una arquitectura eficiente y moderna para proporcionar una experiencia de usuario fluida y rápida. Encuentra y conecta con tus superhéroes favoritos de manera fácil y rápida con SuperHeroLocator App. Es una de las prácticas propuestas en el curso de ANDROID CON KOTLIN de AristiDevs.
 
 ### Imágenes
 
